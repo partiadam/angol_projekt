@@ -170,7 +170,7 @@ main{
     background-color: rgb(171, 80, 80);
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     background-repeat: no-repeat, repeat;
-    background-image: url("/flag.png");
+    background-image: url("flag.png");
     background-blend-mode: lighten;
     background-size: cover;
     font-size: 25px;
